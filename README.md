@@ -7,8 +7,8 @@ I am Arebamen Gabriel. I am a web developer.
 - 📚 I am currently learning web3 and trying to expand my stack.
 - 💨 I aim for progress over perfection.
 - ✍️ I also aim to develop my technical writing skillset for proper documentation of projects.
-- 🏅 I was previously a software engineer at Languivi, Turkey.
-- 🏅 I am currently a software engineer at Karsemba, US.
+- 🏅 Ex software engineer at Languivi, Turkey.
+- 🏅 Ex software engineer at Karsemba, US.
 - ✨ Fun fact: I love sports and music.
 
 
